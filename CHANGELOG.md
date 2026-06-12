@@ -4,6 +4,7 @@
 
 * Use message style notifications for longer message previews
 * Remove notification after audio playback ends
+* Add notifications for missed calls
 
 ## v2.52.0
 2026-06
